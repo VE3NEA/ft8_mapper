@@ -14,7 +14,7 @@ git clone https://github.com/VE3NEA/ft8_mapper.git
 
 At the [conda](https://docs.conda.io/en/latest/miniconda.html) prompt:
 ```
-cd c:\ham\ft8-mapper
+cd c:\ham\ft8_mapper
 conda create --name ft8_map
 activate ft8_map
 conda install -c conda-forge --file Requirements.txt
@@ -25,7 +25,7 @@ ipython kernel install --user --name=ft8_map
 
 At the conda prompt:
 ```
-cd c:\ham\ft8-mapper
+cd c:\ham\ft8_mapper
 activate ft8_map
 jupyter lab
 ```
