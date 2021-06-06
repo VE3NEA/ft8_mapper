@@ -21,7 +21,7 @@ conda install -c conda-forge --file Requirements.txt
 ipython kernel install --user --name=ft8_map
 ```
 
-### Run
+### Execution
 
 At the conda prompt:
 ```
@@ -31,3 +31,9 @@ jupyter lab
 ```
 
 In Jupiter Lab double-click on ft8_mapper.ipynb
+
+### Examples
+
+[polar](screenshots/polar.png)
+[geographic](screenshots/geographic.png)
+[azimuthal](screenshots/azimuthal.png)
