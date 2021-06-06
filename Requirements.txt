@@ -1,0 +1,8 @@
+jupyterlab
+cartopy
+urllib3
+requests
+pybase64
+pypng
+numpy
+ipywidgets
