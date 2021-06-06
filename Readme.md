@@ -34,6 +34,6 @@ In Jupiter Lab double-click on ft8_mapper.ipynb
 
 ### Examples
 
-[polar](screenshots/polar.png)
-[geographic](screenshots/geographic.png)
-[azimuthal](screenshots/azimuthal.png)
+![polar](screenshots/polar.png)
+![geographic](screenshots/geographic.png)
+![azimuthal](screenshots/azimuthal.png)
